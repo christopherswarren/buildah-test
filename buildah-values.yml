@@ -1,0 +1,4 @@
+build:
+  git:
+    enabled: true
+    uri: git://github.com/christopherswarren/buildah-test

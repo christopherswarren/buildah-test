@@ -1,0 +1,7 @@
+.vscode/
+*.sarif
+.idea/
+codeql/
+out/
+.gradle/
+build/
